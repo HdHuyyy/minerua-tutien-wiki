@@ -28,7 +28,7 @@ site:
           path: documentation
           default: true
           content:
-            directory: ./documentation
+            directory: null
     - type: section
       key: section-3
       title: API Reference
@@ -41,7 +41,7 @@ site:
           path: api-reference
           default: true
           content:
-            directory: ./api-reference
+            directory: null
     - type: section
       key: section-4
       title: Changelog
@@ -54,7 +54,7 @@ site:
           path: changelog
           default: true
           content:
-            directory: ./changelog
+            directory: null
     - type: section
       key: section-5
       title: Help Center
@@ -67,4 +67,4 @@ site:
           path: help-center
           default: true
           content:
-            directory: ./help-center
+            directory: null
